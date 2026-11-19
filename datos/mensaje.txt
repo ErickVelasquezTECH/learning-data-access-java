@@ -1,3 +1,0 @@
-Bienvenido al módulo de Acceso a Datos.
-Estamos aprendiendo Java NIO.2.
-Los ficheros permiten almacenar información.

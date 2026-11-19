@@ -1,0 +1,44 @@
+Pregunta 1
+
+¿Qué devuelve Files.readString()?
+
+A) List<String>
+B) String <----
+C) Stream<String>
+D) BufferedReader
+
+Pregunta 2
+
+¿Cuál de estos métodos permite procesar líneas mediante un Stream?
+
+A) Files.readAllLines()
+B) Files.readString()
+C) Files.lines() <----
+D) Files.writeString()
+
+Pregunta 3
+
+¿Qué devuelve BufferedReader.readLine() cuando llega al final del fichero?
+
+A) Una cadena vacía
+B) false
+C) null  <----
+D) Una excepción obligatoriamente
+
+Pregunta 4
+
+¿Por qué es recomendable utilizar UTF-8 explícitamente?
+
+A) Porque permite leer ficheros más rápido.
+B) Porque evita depender de la codificación predeterminada del sistema. <----
+C) Porque convierte automáticamente cualquier fichero en PDF.
+D) Porque elimina los saltos de línea.
+
+Pregunta 5
+
+¿Qué afirmación es correcta?
+
+A) Files.readAllLines() devuelve un Stream<String>.
+B) Files.lines() devuelve un List<String>.
+C) Files.readString() devuelve un String. <----
+D) BufferedReader solo permite leer ficheros binarios.
