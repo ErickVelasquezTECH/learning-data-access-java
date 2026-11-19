@@ -1,0 +1,8 @@
+INFO - Servidor iniciado
+INFO - Usuario conectado
+ERROR - No se pudo conectar a MySQL
+INFO - Consulta realizada
+WARNING - Memoria insuficiente
+ERROR - Archivo no encontrado
+INFO - Servidor detenido
+ERROR - Tiempo de espera agotado
